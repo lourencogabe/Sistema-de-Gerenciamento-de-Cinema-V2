@@ -1,0 +1,3 @@
+nome: Furiosa uma Saga Mad Max, genero: Acao . Aventura, classificacao: 16, duracao: 02 . 29;
+nome: Creed III, genero: Acao . Drama . Sport, classificacao: 18, duracao: 01 . 56;
+nome: Senhor dos Aneis, genero: Aventura . Acao . Fantasia, classificacao: 14, duracao: 03 . 56;
